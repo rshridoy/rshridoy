@@ -18,7 +18,7 @@
 - **Languages**: Python, JavaScript  
 - **Frameworks**: Flask, Selenium  
 - **ML Tools**: TensorFlow, PyTorch, OpenCV  
-- **Cloud Platforms**: Google Cloud (GCP)  
+- **Cloud Platforms**: Google Cloud (GCP), AWS  
 
 ---
 
@@ -31,6 +31,6 @@
 ## 📫 Connect with Me:  
 - 🌐 [GitHub](https://github.com/rshridoy)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-rabius-sani/)  
-- 📝 [Portfolio](#) (https://34vffmaapxpkrsmd.vercel.app/)  
+- 📝 [Portfolio](#)([https://34vffmaapxpkrsmd.vercel.app/](https://34vffmaapxpkrsmd.vercel.app/))  
 
 Thanks for visiting my profile! 😊
