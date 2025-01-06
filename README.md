@@ -6,5 +6,3 @@
 ⚙️ Passionate about building intelligent systems like signature extraction APIs, speech-to-text models, and high-dimensional genomic data classification.
 🏏 Sports enthusiast and former Vice-President of AUST Sports Club | Cricket player at BIUSC
 🛠 Check out my projects at GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rshridoy)](https://git.io/streak-stats)
