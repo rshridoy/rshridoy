@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Rabius Sani!  
 
-🚀 **AI/ML Developer** at [Shothik AI](https://shothikai.com) | Contract Code Reviewer at Outlier  
+🚀 **AI/ML Developer** at [Dotech](https://www.dotech.biz/) | Contract Code Reviewer at Outlier  
 🎓 **B.Sc. in Computer Science & Engineering** from [Ahsanullah University of Science and Technology (AUST)](https://aust.edu)  
 📜 **Published Researcher**:  
 - [Classification of Potato Disease with Digital Image Processing Technique](https://doi.org/10.1109/CCWC57344.2023.10099162)  
